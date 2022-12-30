@@ -1,11 +1,11 @@
 # CSE 412 Database Management 
 Final Report
 
-Visualizes Covid-19 Data from the New York Times using Python and postgreSQL.
+Visualizes Covid-19 Data from the New York Times using Python and postgreSQL. <br/>
 Libraries include: psycopg2, tkinter, pandas
 
-
-<video src='https://www.youtube.com/watch?v=eEeaBieH6Bw' width=180/>
+Video Demo Here:
+https://www.youtube.com/watch?v=eEeaBieH6Bw
 
 
 **Group_30 members:**  
